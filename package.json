@@ -13,7 +13,7 @@
   "private": true,
   "homepage": "https://insomnia.fi",
   "dependencies": {
-    "discord.js": "^14.26.4"
+    "discord.js": "^14.26.5"
   },
   "devDependencies": {
     "rimraf": "^6.1.3",
